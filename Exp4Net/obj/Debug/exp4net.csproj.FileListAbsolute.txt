@@ -1,0 +1,6 @@
+D:\Study\myGithub\exp4net\exp4net\bin\Debug\exp4net.dll
+D:\Study\myGithub\exp4net\exp4net\bin\Debug\exp4net.pdb
+D:\Study\myGithub\exp4net\exp4net\obj\Debug\exp4net.csprojAssemblyReference.cache
+D:\Study\myGithub\exp4net\exp4net\obj\Debug\exp4net.csproj.CoreCompileInputs.cache
+D:\Study\myGithub\exp4net\exp4net\obj\Debug\exp4net.dll
+D:\Study\myGithub\exp4net\exp4net\obj\Debug\exp4net.pdb

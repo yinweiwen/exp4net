@@ -1,0 +1,12 @@
+D:\Study\myGithub\exp4net\test\bin\Debug\test.dll
+D:\Study\myGithub\exp4net\test\bin\Debug\test.pdb
+D:\Study\myGithub\exp4net\test\bin\Debug\nunit.framework.dll
+D:\Study\myGithub\exp4net\test\bin\Debug\nunit.framework.pdb
+D:\Study\myGithub\exp4net\test\bin\Debug\nunit.framework.xml
+D:\Study\myGithub\exp4net\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\Study\myGithub\exp4net\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\Study\myGithub\exp4net\test\obj\Debug\test.csproj.CopyComplete
+D:\Study\myGithub\exp4net\test\obj\Debug\test.dll
+D:\Study\myGithub\exp4net\test\obj\Debug\test.pdb
+D:\Study\myGithub\exp4net\test\bin\Debug\exp4net.dll
+D:\Study\myGithub\exp4net\test\bin\Debug\exp4net.pdb
